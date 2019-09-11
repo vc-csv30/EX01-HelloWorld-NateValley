@@ -1,6 +1,6 @@
-cmake-build-debug
-csv30-lib
-CMakeLists.txt
+CMacmake-build-debug
+   csv30-lib
+keLists.txt
 README.md
 src/*_unittest.cc
 .idea
